@@ -1,0 +1,22 @@
+.about {
+  min-height: calc(100vh - 18rem);
+  padding: 4rem 0;
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.text p {
+  color: var(--clr-grey-5);
+  max-width: var(--fixed-width);
+  margin: 0 auto;
+}
+.text a {
+  color: var(--clr-red-dark);
+  margin-left: 0.4rem;
+  transition: var(--mainTransition);
+}
+.text a:hover {
+  color: var(--clr-red-light);
+  text-decoration: underline;
+}

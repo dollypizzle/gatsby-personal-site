@@ -1,0 +1,7 @@
+.banner h1 {
+  text-transform: uppercase;
+  color: var(--clr-white);
+  text-align: center;
+  letter-spacing: 0.5rem;
+  line-height: 1.25;
+}

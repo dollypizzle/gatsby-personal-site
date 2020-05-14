@@ -1,0 +1,10 @@
+.banner {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.underline {
+  height: 0.25rem;
+  width: 5rem;
+  background: var(--clr-primary);
+  margin: 0 auto;
+}

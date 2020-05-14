@@ -1,0 +1,29 @@
+.contact {
+  min-height: calc(100vh - 18rem);
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.text {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.text p {
+  color: var(--clr-grey-5);
+  max-width: var(--fixed-width);
+  margin: 0 auto;
+  margin-bottom: 0.5rem;
+}
+.text a {
+  letter-spacing: var(--spacing);
+  color: var(--clr-primary);
+  transition: var(--transition);
+  font-weight: 700;
+  padding: 0.375rem 0rem;
+  border-radius: var(--radius);
+  display: block;
+}
+.text a:hover {
+  text-decoration: underline;
+  color: var(--clr-primary-dark);
+}
