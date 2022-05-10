@@ -8,7 +8,7 @@ module.exports = {
     author: `@edollypizzle`,
     twitterUsername: "@oluwasegge",
     image: "/mainBcg.jpeg",
-    siteUrl: "https://www.johnsmilga.com",
+    siteUrl: "https://xenodochial-hugle-9cd5fb.netlify.app",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
